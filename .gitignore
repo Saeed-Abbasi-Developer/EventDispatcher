@@ -1,0 +1,11 @@
+# .gitignore
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.pdb
+*.log
+*.DotSettings.user
